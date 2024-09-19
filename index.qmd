@@ -107,7 +107,7 @@ jan_data = games.query('month == "January"')
 
 Your first goal is to get to this graph by breaking down the problem (replicating the graph) into smaller steps that make sense and that you can accomplish piece-by-piece.
 
-![Target plot to replicate](https://i.imgur.com/rbgdd3X.png)
+![Target plot to replicate](r-plot.png)
 
 ### Problem Steps
 
@@ -138,11 +138,11 @@ Write 2-3 sentences addressing the above topic.
 
 # Planning Python Code: Replicate a (different) plot
 
-![Plot to replicate](https://i.imgur.com/hoTGRKW.png)
+![Plot to replicate](py-plot.png)
 
 This plot shows the 5 games with the most average users in March of 2020. It is ok if you can replicate this plot to the point where the legend doesn't show up properly, as in this image:
 
-![Legend not quite right](https://i.imgur.com/t0wYCV8.png)
+![Legend not quite right](py-plot2.png)
 
 
 #### Problem Steps
