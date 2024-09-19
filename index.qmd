@@ -1,5 +1,7 @@
 ---
-title: "Homework 4: Data Programming"
+title: "Homework: Data Programming"
+execute:
+  error: true
 author: "Your Name"
 output: html_document
 ---
